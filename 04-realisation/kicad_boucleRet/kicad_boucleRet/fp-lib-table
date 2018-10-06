@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name myPcbLib)(type KiCad)(uri C:/MountWD/Donnees/OneDrive/Donnees/008_iao_wrk/VoRoboticsAsso/00-AutresProjetsDuLab/0043-trainElectrique/50-sousProjetBoucleDeRetournement/04-realisation/kicad_boucleRet/mylocalPcbLib.pretty)(options "")(descr ""))
+)
